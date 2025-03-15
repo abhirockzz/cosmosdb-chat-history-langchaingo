@@ -31,9 +31,9 @@ chain := chains.LLMChain{
 
 Check out the blog post [Implementing Chat History for AI Applications Using Azure Cosmos DB Go SDK](https://devblogs.microsoft.com/cosmosdb/implementing-chat-history-for-ai-applications-using-azure-cosmos-db-go-sdk) and the sample chatbot application that demonstrates how to use this package.
 
-![App](https://github.com/AzureCosmosDB/cosmosdb-chat-history-langchaingo)
+![App](https://raw.githubusercontent.com/AzureCosmosDB/cosmosdb-chat-history-langchaingo/refs/heads/main/images/app.png)
 
-## To run the test cases
+## Run test cases
 
 This repository includes simple test cases for the chat history component. It demonstrates an example of how to use the [Azure Cosmos DB Linux-based emulator](https://learn.microsoft.com/en-us/azure/cosmos-db/emulator-linux) (in *preview* at the time of writing) for integration tests with [Testcontainers for Go](https://golang.testcontainers.org/).
 
