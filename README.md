@@ -29,7 +29,7 @@ chain := chains.LLMChain{
 }
 ```
 
-Check out the blog post [Implementing Chat History for AI Applications Using Azure Cosmos DB Go SDK](https://devblogs.microsoft.com/cosmosdb/implementing-chat-history-for-ai-applications-using-azure-cosmos-db-go-sdk) and the sample chatbot application that demonstrates how to use this package.
+Check out the blog post [Implementing Chat History for AI Applications Using Azure Cosmos DB Go SDK](https://devblogs.microsoft.com/cosmosdb/implementing-chat-history-for-ai-applications-using-azure-cosmos-db-go-sdk) and the [sample chatbot application](https://github.com/AzureCosmosDB/cosmosdb-chat-history-langchaingo) that demonstrates how to use this package.
 
 ![App](https://raw.githubusercontent.com/AzureCosmosDB/cosmosdb-chat-history-langchaingo/refs/heads/main/images/app.png)
 
